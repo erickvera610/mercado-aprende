@@ -1,10 +1,10 @@
 {
   "project": "mercado-aprende",
-  "executed_at_utc": "2026-10-10T17:43:45.725794+00:00",
-  "kind": "actual automated validation using fictional or synthetic data",
-  "not_user_traffic": true,
-  "scenario_count": 10,
-  "passed": 10,
+  "executed_at_utc": "2026-10-10T17:50:44.912950+00:00",
+  "kind": "practical exercises using fictional or synthetic data",
+  "execution_method": "Python script",
+  "scenario_count": 20,
+  "passed": 20,
   "results": [
     {
       "scenario": 1,
@@ -194,6 +194,206 @@
         "condition": "Usado",
         "price": "73.50",
         "description": "Fictional product for automated scenario 10."
+      },
+      "checks": [
+        "register",
+        "login",
+        "publish",
+        "catalog",
+        "purchase",
+        "history",
+        "double-purchase rejected"
+      ],
+      "passed": true
+    },
+    {
+      "scenario": 11,
+      "input": {
+        "title": "Sample product 11",
+        "category": "Libros",
+        "condition": "Usado",
+        "price": "80.50",
+        "description": "Fictional product for automated scenario 11."
+      },
+      "checks": [
+        "register",
+        "login",
+        "publish",
+        "catalog",
+        "purchase",
+        "history",
+        "double-purchase rejected"
+      ],
+      "passed": true
+    },
+    {
+      "scenario": 12,
+      "input": {
+        "title": "Sample product 12",
+        "category": "Electr\u00f3nica",
+        "condition": "Usado",
+        "price": "87.50",
+        "description": "Fictional product for automated scenario 12."
+      },
+      "checks": [
+        "register",
+        "login",
+        "publish",
+        "catalog",
+        "purchase",
+        "history",
+        "double-purchase rejected"
+      ],
+      "passed": true
+    },
+    {
+      "scenario": 13,
+      "input": {
+        "title": "Sample product 13",
+        "category": "Deportes",
+        "condition": "Usado",
+        "price": "94.50",
+        "description": "Fictional product for automated scenario 13."
+      },
+      "checks": [
+        "register",
+        "login",
+        "publish",
+        "catalog",
+        "purchase",
+        "history",
+        "double-purchase rejected"
+      ],
+      "passed": true
+    },
+    {
+      "scenario": 14,
+      "input": {
+        "title": "Sample product 14",
+        "category": "Libros",
+        "condition": "Usado",
+        "price": "101.50",
+        "description": "Fictional product for automated scenario 14."
+      },
+      "checks": [
+        "register",
+        "login",
+        "publish",
+        "catalog",
+        "purchase",
+        "history",
+        "double-purchase rejected"
+      ],
+      "passed": true
+    },
+    {
+      "scenario": 15,
+      "input": {
+        "title": "Sample product 15",
+        "category": "Electr\u00f3nica",
+        "condition": "Usado",
+        "price": "108.50",
+        "description": "Fictional product for automated scenario 15."
+      },
+      "checks": [
+        "register",
+        "login",
+        "publish",
+        "catalog",
+        "purchase",
+        "history",
+        "double-purchase rejected"
+      ],
+      "passed": true
+    },
+    {
+      "scenario": 16,
+      "input": {
+        "title": "Sample product 16",
+        "category": "Deportes",
+        "condition": "Usado",
+        "price": "115.50",
+        "description": "Fictional product for automated scenario 16."
+      },
+      "checks": [
+        "register",
+        "login",
+        "publish",
+        "catalog",
+        "purchase",
+        "history",
+        "double-purchase rejected"
+      ],
+      "passed": true
+    },
+    {
+      "scenario": 17,
+      "input": {
+        "title": "Sample product 17",
+        "category": "Libros",
+        "condition": "Usado",
+        "price": "122.50",
+        "description": "Fictional product for automated scenario 17."
+      },
+      "checks": [
+        "register",
+        "login",
+        "publish",
+        "catalog",
+        "purchase",
+        "history",
+        "double-purchase rejected"
+      ],
+      "passed": true
+    },
+    {
+      "scenario": 18,
+      "input": {
+        "title": "Sample product 18",
+        "category": "Electr\u00f3nica",
+        "condition": "Usado",
+        "price": "129.50",
+        "description": "Fictional product for automated scenario 18."
+      },
+      "checks": [
+        "register",
+        "login",
+        "publish",
+        "catalog",
+        "purchase",
+        "history",
+        "double-purchase rejected"
+      ],
+      "passed": true
+    },
+    {
+      "scenario": 19,
+      "input": {
+        "title": "Sample product 19",
+        "category": "Deportes",
+        "condition": "Usado",
+        "price": "136.50",
+        "description": "Fictional product for automated scenario 19."
+      },
+      "checks": [
+        "register",
+        "login",
+        "publish",
+        "catalog",
+        "purchase",
+        "history",
+        "double-purchase rejected"
+      ],
+      "passed": true
+    },
+    {
+      "scenario": 20,
+      "input": {
+        "title": "Sample product 20",
+        "category": "Libros",
+        "condition": "Usado",
+        "price": "143.50",
+        "description": "Fictional product for automated scenario 20."
       },
       "checks": [
         "register",

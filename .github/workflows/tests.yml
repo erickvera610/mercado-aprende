@@ -11,5 +11,5 @@ jobs:
       - run: python -m pip install -r requirements.txt
       - run: python -m pytest -q
 
-      - name: Run ten fictional-data validation scenarios
+      - name: Run twenty practical exercises
         run: python validate_scenarios.py
