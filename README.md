@@ -1,6 +1,10 @@
 # Mercado Aprende
 Proyecto educativo independiente de Erik José Vera Mercado. Inspirado en el concepto de marketplace de Team Alpha, sin copiar su código.
 
+## Demo pública sin instalación
+
+[Ejecutar demo pública](https://erickvera610.github.io/mercado-aprende/). La demo JavaScript permite explorar, publicar ejemplos y simular compras en el navegador. Guarda datos solo en el dispositivo del visitante; no incluye autenticación ni ejecuta Flask. El repositorio es público y los visitantes no tienen permiso de escritura.
+
 ## Funciones
 Registro, inicio y cierre de sesión; publicación de productos; búsqueda y filtro; detalles; compra simulada; historial de compras y publicaciones. Usa Flask, SQLite, HTML y CSS propio. Todos los bloques de Python incluyen comentarios en español.
 
