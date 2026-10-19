@@ -1,0 +1,21 @@
+{
+  "project": "mercado-aprende",
+  "date_utc": "2026-10-19",
+  "executed_at_utc": "2026-10-19T18:45:31.792528+00:00",
+  "data_kind": "fictional/synthetic",
+  "execution_method": "Python script",
+  "seed": 20261019,
+  "input": {
+    "title": "Fictional product 2026-10-19",
+    "category": "Libros",
+    "condition": "Usado",
+    "price": "85",
+    "description": "Daily fictional exercise product"
+  },
+  "output": {
+    "published": true,
+    "purchased": true,
+    "history_visible": true
+  },
+  "completed": true
+}
